@@ -21,7 +21,7 @@
     </packageVersions>
     <packageVersions>
         <majorNumber>1</majorNumber>
-        <minorNumber>33</minorNumber>
+        <minorNumber>42</minorNumber>
         <namespace>agf</namespace>
     </packageVersions>
     <packageVersions>
@@ -36,17 +36,17 @@
     </packageVersions>
     <packageVersions>
         <majorNumber>1</majorNumber>
-        <minorNumber>9</minorNumber>
+        <minorNumber>10</minorNumber>
         <namespace>sf_chttr_apps</namespace>
     </packageVersions>
     <packageVersions>
         <majorNumber>1</majorNumber>
-        <minorNumber>6</minorNumber>
+        <minorNumber>7</minorNumber>
         <namespace>sf_com_apps</namespace>
     </packageVersions>
     <packageVersions>
-        <majorNumber>6</majorNumber>
-        <minorNumber>8</minorNumber>
+        <majorNumber>7</majorNumber>
+        <minorNumber>24</minorNumber>
         <namespace>skuid</namespace>
     </packageVersions>
     <packageVersions>
